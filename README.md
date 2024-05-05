@@ -1,6 +1,5 @@
 # Muffins_or_Chihuahuas
- Project repository as a part of a university machine learning course and focuses on utilizing neural networks for image classification tasks.
- This project aims to classify images into two categories: Chihuahuas and Muffins testing different neural network architectures.
+ Project repository as a part of a university machine learning course. This project aims to classify images into two categories: Chihuahuas and Muffins testing different neural network architectures.
 
 ## Repository Structure
 - **dataset**: Contains Chihuahuas and Muffins images divided into training and validation sets.
