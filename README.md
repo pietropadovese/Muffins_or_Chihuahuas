@@ -4,5 +4,5 @@
 ## Repository Structure
 - **dataset**: Contains Chihuahuas and Muffins images divided into training and validation sets.
 - **models**: contain subfolders for each implemented model. They include a python script to construct the model architecture, the model saved in .keras format and CSV file containing training and validation metrics.
-- **cnn_01.ipynb, cnn_02.ipynb, residual_learning.ipynb**: Notebooks where the three models are trained and tested.
-- **cvv.ipynb**, a comparison between the cnn_02 and residual learning models. This analysis employs 5-fold cross-validation to assess their performance, focusing on the 0-1 loss metric.
+- **cnn_01.ipynb: cnn_02.ipynb, residual_learning.ipynb**: Notebooks where the three models are trained and tested.
+- **cvv.ipynb**: a comparison between the cnn_02 and residual learning models. This analysis employs 5-fold cross-validation to assess their performance, focusing on the 0-1 loss metric.
